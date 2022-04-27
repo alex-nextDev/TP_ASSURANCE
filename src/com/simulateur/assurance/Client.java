@@ -49,8 +49,8 @@ public class Client {
 		return marier;
 	}
 
-	public void setStatut(String marier) {
-		this.marier = marier;
+	public void setStatut(String statut) {
+		this.statut = statut;
 	}
 
 	public int getNbEnfants() {
