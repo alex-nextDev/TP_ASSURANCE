@@ -46,7 +46,7 @@ public class Client {
 	}
 
 	public String getStatut() {
-		return marier;
+		return statut;
 	}
 
 	public void setStatut(String statut) {
