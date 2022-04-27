@@ -5,16 +5,16 @@ public class Client {
 	private String nom;
 	private String prenom;
 	private String dateNaissance;
-	private String marier;
+	private String statut;
 	private int nbEnfants;
 	private Contrat typeContrat;
 	
-	public Client(String nom, String prenom, String dateNaissance, String marier, int nbEnfants, Contrat typeContrat)
+	public Client(String nom, String prenom, String dateNaissance, String statut, int nbEnfants, Contrat typeContrat)
 	{
 		this.nom = nom;
 		this.prenom = prenom;
 		this.dateNaissance = dateNaissance;
-		this.marier = marier;
+		this.statut = statut;
 		this.nbEnfants = nbEnfants;
 		this.typeContrat = typeContrat;
 		
