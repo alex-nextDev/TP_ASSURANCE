@@ -45,11 +45,11 @@ public class Client {
 		this.dateNaissance = dateNaissance;
 	}
 
-	public String getMarier() {
+	public String getStatut() {
 		return marier;
 	}
 
-	public void setMarier(String marier) {
+	public void setStatut(String marier) {
 		this.marier = marier;
 	}
 
