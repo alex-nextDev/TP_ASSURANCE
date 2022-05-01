@@ -5,7 +5,7 @@ public class Client {
 	private String nom;
 	private String prenom;
 	private String dateNaissance;
-	private String statut;
+	private String statutMarital;
 	private int nbEnfants;
 	private Contrat typeContrat;
 	
