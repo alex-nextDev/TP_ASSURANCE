@@ -14,7 +14,7 @@ public class Client {
 		this.nom = nom;
 		this.prenom = prenom;
 		this.dateNaissance = dateNaissance;
-		this.statut = statut;
+		this.statutMarital = statut;
 		this.nbEnfants = nbEnfants;
 		this.typeContrat = typeContrat;
 		
