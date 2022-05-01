@@ -46,7 +46,7 @@ public class Client {
 	}
 
 	public String getStatutMarital() {
-		return statut;
+		return statutMarital;
 	}
 
 	public void setStatut(String statut) {
