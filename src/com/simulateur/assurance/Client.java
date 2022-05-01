@@ -45,7 +45,7 @@ public class Client {
 		this.dateNaissance = dateNaissance;
 	}
 
-	public String getStatut() {
+	public String getStatutMarital() {
 		return statut;
 	}
 
