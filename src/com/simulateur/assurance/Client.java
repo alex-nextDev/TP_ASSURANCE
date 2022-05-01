@@ -9,7 +9,7 @@ public class Client {
 	private int nbEnfants;
 	private Contrat typeContrat;
 	
-	public Client(String nom, String prenom, String dateNaissance, String statut, int nbEnfants, Contrat typeContrat)
+	public Client(String nom, String prenom, String dateNaissance, String statutMarital, int nbEnfants, Contrat typeContrat)
 	{
 		this.nom = nom;
 		this.prenom = prenom;
