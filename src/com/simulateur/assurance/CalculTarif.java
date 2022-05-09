@@ -30,12 +30,6 @@ abstract class CalculTarif  extends CalculTarifsContrats {
 			
 		 double resultat;
 		 
-		 /*
-		  * Calccul du tarif pour un contrat maison
-		  * on multiplie le tarif de base 'base' par le nombre de chevaux fiscaux 'MajSurfaceTab'
-		  * ensuite on addition ce resultat avec la valeur du tableau correspondant au garage 'majGrageTab'
-		  * ensuite on addition ce resultat avec la valeur du tableau correspondant au nombre de personne du foyer 'nbPersonneMaison'
-		  */
 		 
 		resultat = ((base*MajSurfaceTab)+majGrageTab)+nbPersonneMaison;
 		System.out.println();
