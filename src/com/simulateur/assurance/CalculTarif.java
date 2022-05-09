@@ -36,6 +36,4 @@ abstract class CalculTarif  extends CalculTarifsContrats {
 		
 		return resultat;
 	 }
-	 
-	 
 }
