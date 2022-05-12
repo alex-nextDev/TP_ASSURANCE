@@ -5,18 +5,18 @@ public class Client {
 	private String nom;
 	private String prenom;
 	private String dateNaissance;
-	private String statutMarital;
-	private int nbEnfants;
-	private Contrat typeContrat;
+	private boolean statut;
+	private boolean nbEnfants;
+
 	
-	public Client(String nom, String prenom, String dateNaissance, String statutMarital, int nbEnfants, Contrat typeContrat)
+	public Client(String nom, String prenom, String dateNaissance, boolean statut, boolean nbEnfants)
 	{
 		this.nom = nom;
 		this.prenom = prenom;
 		this.dateNaissance = dateNaissance;
-		this.statutMarital = statutMarital;
+		this.statut = statut;
 		this.nbEnfants = nbEnfants;
-		this.typeContrat = typeContrat;
+		
 		
 		
 	}
@@ -45,32 +45,22 @@ public class Client {
 		this.dateNaissance = dateNaissance;
 	}
 
-	public String getStatutMarital() {
-		return statutMarital;
+	public boolean isStatut() {
+		return statut;
 	}
 
-	public void setStatut(String statut) {
+	public void setStatut(boolean statut) {
 		this.statut = statut;
 	}
 
-	public int getNbEnfants() {
+	public boolean isNbEnfants() {
 		return nbEnfants;
 	}
 
-	public void setNbEnfants(int nbEnfants) {
+	public void setNbEnfants(boolean nbEnfants) {
 		this.nbEnfants = nbEnfants;
 	}
 
-	public Contrat getTypeContrat() {
-		return typeContrat;
-	}
-
-	public void setTypeContrat(Contrat typeContrat) {
-		this.typeContrat = typeContrat;
-	}
-	
-	
-	
 	
 	
 
