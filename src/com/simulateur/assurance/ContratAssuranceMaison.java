@@ -1,6 +1,5 @@
 package com.simulateur.assurance;
 
-
 public  class ContratAssuranceMaison  {
 	private int surface;						
 	private int nbPersonneMaison;				
@@ -18,8 +17,8 @@ public  class ContratAssuranceMaison  {
 	ContratAssuranceMaison(){
 	surface=0;
 	nbPersonneMaison=0;
-		majSurfaceTab=0;
-		majGarageTab=0;
+	majSurfaceTab=0;
+	majGarageTab=0;
 	}
 
 
