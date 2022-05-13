@@ -9,7 +9,7 @@ public  class ContratAssuranceMaison  {
 	private int majNbPersooneSurface;			
 
 	
-int baseMaison = 15;								
+	int baseMaison = 15;								
 	
 
 	double [] majSurface = {1,1.1,1.2,1.3,1.4,1.5,1.6};			
