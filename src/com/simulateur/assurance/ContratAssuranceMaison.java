@@ -15,7 +15,7 @@ public  class ContratAssuranceMaison  {
 	int [] majNbPersonneMaison = {0,1,2,3,4,5,6};						
 	int [] majGarage = {0,1,2,3,4,5,6};
 	
-	ContratAssuranceMaison(){
+		ContratAssuranceMaison(){
 		surface=0;
 		nbPersonneMaison=0;
 		majSurfaceTab=0;
