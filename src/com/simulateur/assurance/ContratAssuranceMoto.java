@@ -111,5 +111,4 @@ public  class ContratAssuranceMoto
 	public void setBonusMalus(double bonusMalus) {
 		this.bonusMalus = bonusMalus;
 	}
-	
 }
