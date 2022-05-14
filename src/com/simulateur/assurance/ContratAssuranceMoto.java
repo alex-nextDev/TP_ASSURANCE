@@ -9,7 +9,7 @@ public  class ContratAssuranceMoto{
 	int baseMoto = 30;									
 
 	double [] majChevauxFiscaux = {1,1.1,1.2,1.3,1.4,1.5,1.6};			
-	int [] anneeAssuranceTab			= {0,1,2,3,4,5,6};						
+	int [] anneeAssuranceTab = {0,1,2,3,4,5,6};						
 
 
 	 ContratAssuranceMoto(){
