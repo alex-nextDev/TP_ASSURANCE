@@ -1,6 +1,7 @@
 package com.simulateur.assurance;
 
-public  class ContratAssuranceMoto{
+public  class ContratAssuranceMoto
+{
 
 	private int cylindree;							
 	private double majChevauxTab;					
