@@ -112,5 +112,4 @@ public  class ContratAssuranceMoto
 		this.bonusMalus = bonusMalus;
 	}
 	
-
 }
