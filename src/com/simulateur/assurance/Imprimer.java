@@ -6,7 +6,6 @@ import java.text.NumberFormat;
 
 public abstract class Imprimer extends Menu {
 	
-	
 	 public static  void imprimerVoiture(String nom,  String prenom, double tarif , boolean marie , boolean enfants ) {
 		 				
 		System.out.println("+------------------------------------------------------+");
@@ -60,5 +59,4 @@ public abstract class Imprimer extends Menu {
 		System.out.println("Carte d'identité assureur");
 		System.out.println("+------------------------------------------------------+");
 	 }
-	 
 }
