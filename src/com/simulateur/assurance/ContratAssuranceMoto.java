@@ -18,8 +18,6 @@ public  class ContratAssuranceMoto{
 			majChevauxTab = 0;
 	 }
 
-
-
 	ContratAssuranceMoto(int cylindree, int nbAnAssurance, double bonusMalus) {
 		
 		int nbChevaux = 0;
