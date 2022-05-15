@@ -22,5 +22,19 @@ public class ContratAssuranceVoiture {
 	int [] enfantMajoration	= {1,2,3,4,5,6,7};	
 		
 	}
+	
+	 ContratAssuranceVoiture()
+	 {
+		 
+			bonsuMalus=0;
+			nbAnneeAssurance=0;
+			nbChevaux=0;
+			majChevauxTab=0;
+			nbAnTab=0;
+			conjointTab=0;
+			enfantsTab=0;
+			reductionTab=0;
+	 }
+
 
 }
