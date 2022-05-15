@@ -17,8 +17,6 @@ public class Client {
 		this.statut = statut;
 		this.nbEnfants = nbEnfants;
 		
-		
-		
 	}
 
 	public String getNom() {
