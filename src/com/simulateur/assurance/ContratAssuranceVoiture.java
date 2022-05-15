@@ -5,7 +5,7 @@ public class ContratAssuranceVoiture {
 	public ContratAssuranceVoiture()
 	{
 	
-		private double bonsuMalus;						
+	private double bonsuMalus;						
 	private int nbAnneeAssurance;						
 	private int nbChevaux;							
 	private double majChevauxTab;					
