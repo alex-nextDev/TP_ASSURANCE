@@ -71,6 +71,11 @@ public class ContratAssuranceVoiture {
 		this.nbAnneeAssurance = nbAnneeAssurance;						
 		this.nbChevaux = nbChevaux;								
 	}
+	
+	public double getBonsuMalus() {
+		return bonsuMalus;
+	}
+
 
 
 
