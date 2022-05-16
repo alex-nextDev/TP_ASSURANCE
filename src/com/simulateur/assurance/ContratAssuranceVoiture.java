@@ -36,5 +36,42 @@ public class ContratAssuranceVoiture {
 			reductionTab=0;
 	 }
 
+	ContratAssuranceVoiture(int nbChevaux, double bonsuMalus, int nbAnneeAssurance, boolean conjoint, boolean enfants)
+	{
+		this.majChevauxTab=majChevauxFiscaux[nbChevaux-4];		
+		
+
+		if (nbAnneeAssurance>6)
+		{							
+			this.reductionTab= anAssur[6];
+			if (conjoint)
+			{								
+				this.conjointTab=marieChevaux[6];
+			}
+			if (enfants)
+			{								
+				this.enfantsTab=enfantMajoration[6];
+			}
+		
+		}
+		else
+		{											
+			this.reductionTab= anAssur[nbAnneeAssurance];
+			if (conjoint)
+			{
+				this.conjointTab=marieChevaux[nbChevaux-4];
+			}
+			if (enfants)
+			{
+				this.enfantsTab=enfantMajoration[nbChevaux-4];
+			}
+		}
+
+		this.bonsuMalus = bonsuMalus;								
+		this.nbAnneeAssurance = nbAnneeAssurance;						
+		this.nbChevaux = nbChevaux;								
+	}
+
+
 
 }
