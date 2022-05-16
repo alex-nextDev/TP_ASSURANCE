@@ -25,7 +25,6 @@ public class ContratAssuranceVoiture {
 	
 	 ContratAssuranceVoiture()
 	 {
-		 
 			bonsuMalus=0;
 			nbAnneeAssurance=0;
 			nbChevaux=0;
@@ -44,6 +43,7 @@ public class ContratAssuranceVoiture {
 		if (nbAnneeAssurance>6)
 		{							
 			this.reductionTab= anAssur[6];
+			
 			if (conjoint)
 			{								
 				this.conjointTab=marieChevaux[6];
