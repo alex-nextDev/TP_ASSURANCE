@@ -85,6 +85,11 @@ public class ContratAssuranceVoiture {
 	public int getNbAnAssurance() {
 		return nbAnneeAssurance;
 	}
+	
+	public void setNbAnAssurance(int nbAnAssurance) {
+		this.nbAnneeAssurance = nbAnAssurance;
+	}
+
 
 
 }
