@@ -81,4 +81,10 @@ public class ContratAssuranceVoiture {
 	public void setBonsuMalus(double bonsuMalus) {
 		this.bonsuMalus = bonsuMalus;
 	}
+	
+	public int getNbAnAssurance() {
+		return nbAnneeAssurance;
+	}
+
+
 }
