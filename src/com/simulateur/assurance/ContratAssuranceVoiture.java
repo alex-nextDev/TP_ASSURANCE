@@ -90,7 +90,7 @@ public class ContratAssuranceVoiture {
 	}
 	
 	
-public int getNbChevaux() {
+	public int getNbChevaux() {
 		return nbChevaux;
 	}
 
