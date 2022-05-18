@@ -99,5 +99,4 @@ public class ContratAssuranceVoiture {
 		this.nbChevaux = nbChevaux;
 	}
 
-
 }
