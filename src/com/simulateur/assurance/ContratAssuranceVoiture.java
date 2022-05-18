@@ -93,5 +93,11 @@ public class ContratAssuranceVoiture {
 	public int getNbChevaux() {
 		return nbChevaux;
 	}
+	
+	
+	public void setNbChevaux(int nbChevaux) {
+		this.nbChevaux = nbChevaux;
+	}
+
 
 }
