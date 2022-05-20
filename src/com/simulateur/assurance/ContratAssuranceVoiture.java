@@ -107,6 +107,10 @@ public class ContratAssuranceVoiture {
 		this.majChevauxTab = majChevauxTab;
 	}
 	
+	public double getNbAnTab() {
+		return nbAnTab;
+	}
+	
 	
 
 }
