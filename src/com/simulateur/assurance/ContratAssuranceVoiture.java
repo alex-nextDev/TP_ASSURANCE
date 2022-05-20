@@ -98,5 +98,9 @@ public class ContratAssuranceVoiture {
 	public void setNbChevaux(int nbChevaux) {
 		this.nbChevaux = nbChevaux;
 	}
+	
+	public double getMajChevauxTab() {
+		return majChevauxTab;
+	}
 
 }
