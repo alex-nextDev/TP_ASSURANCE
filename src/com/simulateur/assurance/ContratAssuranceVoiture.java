@@ -102,5 +102,11 @@ public class ContratAssuranceVoiture {
 	public double getMajChevauxTab() {
 		return majChevauxTab;
 	}
+	
+	public void setMajChevauxTab(double majChevauxTab) {
+		this.majChevauxTab = majChevauxTab;
+	}
+	
+	
 
 }
