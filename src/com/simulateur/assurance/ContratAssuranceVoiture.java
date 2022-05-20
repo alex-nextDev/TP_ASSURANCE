@@ -111,6 +111,10 @@ public class ContratAssuranceVoiture {
 		return nbAnTab;
 	}
 	
+	public void setNbAnTab(double nbAnTab) {
+		this.nbAnTab = nbAnTab;
+	}
+	
 	
 
 }
