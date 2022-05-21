@@ -131,5 +131,4 @@ public class ContratAssuranceVoiture {
 		this.enfantsTab = enfantsTab;
 	}
 	
-
 }
