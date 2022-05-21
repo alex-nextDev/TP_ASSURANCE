@@ -123,6 +123,10 @@ public class ContratAssuranceVoiture {
 		this.conjointTab = conjointTab;
 	}
 	
+	public double getEnfantsTab() {
+		return enfantsTab;
+	}
+	
 	
 
 }
