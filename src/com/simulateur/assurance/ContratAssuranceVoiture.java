@@ -127,6 +127,9 @@ public class ContratAssuranceVoiture {
 		return enfantsTab;
 	}
 	
+	public void setEnfantsTab(double enfantsTab) {
+		this.enfantsTab = enfantsTab;
+	}
 	
 
 }
