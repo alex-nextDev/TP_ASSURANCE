@@ -119,6 +119,10 @@ public class ContratAssuranceVoiture {
 		return conjointTab;
 	}
 	
+	public void setConjointTab(double conjointTab) {
+		this.conjointTab = conjointTab;
+	}
+	
 	
 
 }
