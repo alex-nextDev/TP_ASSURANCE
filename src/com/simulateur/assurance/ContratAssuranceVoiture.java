@@ -115,6 +115,10 @@ public class ContratAssuranceVoiture {
 		this.nbAnTab = nbAnTab;
 	}
 	
+	public double getConjointTab() {
+		return conjointTab;
+	}
+	
 	
 
 }
