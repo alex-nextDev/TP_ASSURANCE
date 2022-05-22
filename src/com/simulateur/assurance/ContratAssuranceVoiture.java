@@ -139,7 +139,9 @@ public class ContratAssuranceVoiture {
 		this.reductionTab = reductionTab;
 	}
 	
-	
+	public double[] getMajChevauxFiscaux() {
+		return majChevauxFiscaux;
+	}
 	
 	
 }
