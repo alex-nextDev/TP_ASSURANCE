@@ -135,6 +135,9 @@ public class ContratAssuranceVoiture {
 		return reductionTab;
 	}
 	
+	public void setReductionTab(double reductionTab) {
+		this.reductionTab = reductionTab;
+	}
 	
 	
 }
