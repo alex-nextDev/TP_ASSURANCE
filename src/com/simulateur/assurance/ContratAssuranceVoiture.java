@@ -131,4 +131,8 @@ public class ContratAssuranceVoiture {
 		this.enfantsTab = enfantsTab;
 	}
 	
+	public double getReductionTab() {
+		return reductionTab;
+	}
+	
 }
