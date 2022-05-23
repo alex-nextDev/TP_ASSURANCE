@@ -143,6 +143,10 @@ public class ContratAssuranceVoiture {
 		return majChevauxFiscaux;
 	}
 	
+	public void setMajChevauxFiscaux(double[] majChevauxFiscaux) {
+		this.majChevauxFiscaux = majChevauxFiscaux;
+	}
+	
 	
 	
 }
