@@ -151,6 +151,8 @@ public class ContratAssuranceVoiture {
 		return anAssur;
 	}
 	
-	
+	public void setAnAssur(int[] anAssur) {
+		this.anAssur = anAssur;
+	}
 	
 }
