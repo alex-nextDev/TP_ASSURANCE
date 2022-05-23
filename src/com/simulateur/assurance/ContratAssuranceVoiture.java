@@ -147,6 +147,9 @@ public class ContratAssuranceVoiture {
 		this.majChevauxFiscaux = majChevauxFiscaux;
 	}
 	
+	public int[] getAnAssur() {
+		return anAssur;
+	}
 	
 	
 	
