@@ -156,7 +156,6 @@ public class ContratAssuranceVoiture {
 	}
 	
 	
-	
 	public int[] getMarieChevaux() {
 		return marieChevaux;
 	}
