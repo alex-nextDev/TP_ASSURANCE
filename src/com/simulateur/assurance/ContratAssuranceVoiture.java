@@ -163,4 +163,9 @@ public class ContratAssuranceVoiture {
 	public void setMarieChevaux(int[] marieChevaux) {
 		this.marieChevaux = marieChevaux;
 	}
+	
+	public int[] getEnfantMajoration() {
+		return enfantMajoration;
+	}
+
 }
