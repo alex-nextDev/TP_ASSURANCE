@@ -172,5 +172,13 @@ public class ContratAssuranceVoiture {
 		this.enfantMajoration = enfantMajoration;
 	}
 	
+	public String toString() {
+		 
+        System.out.println(nbChevaux + "," + majChevauxTab + "," + reductionTab + "," + conjointTab+"," + enfantsTab + "," + bonsuMalus+"," + nbAnneeAssurance);
+		return null;
+
+
+}
+	
 
 }
