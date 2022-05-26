@@ -171,5 +171,6 @@ public class ContratAssuranceVoiture {
 	public void setEnfantMajoration(int[] enfantMajoration) {
 		this.enfantMajoration = enfantMajoration;
 	}
+	
 
 }
