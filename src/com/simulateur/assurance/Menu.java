@@ -10,3 +10,5 @@ import java.util.InputMismatchException;
 
 public abstract class Menu extends Contrat
 {
+
+
