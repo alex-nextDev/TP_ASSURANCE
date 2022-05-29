@@ -16,7 +16,7 @@ private static String prenom;
 private static String dateNaissance;
 private static boolean statut;
 private static boolean nbEnfants;
-
+static boolean aEnfants = false;
 
 //TO FINISH
 }
