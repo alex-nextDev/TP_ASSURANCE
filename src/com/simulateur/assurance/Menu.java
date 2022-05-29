@@ -14,7 +14,7 @@ public abstract class Menu extends Contrat
 private static String nom;
 private static String prenom;
 private static String dateNaissance;
-
+private static boolean statut;
 //TO FINISH
 }
 
