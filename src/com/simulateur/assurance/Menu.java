@@ -18,6 +18,7 @@ private static boolean statut;
 private static boolean nbEnfants;
 static boolean aEnfants = false;
 static boolean aConjoint = false;
+static int chevaux = 0;	
 
 //TO FINISH
 }
