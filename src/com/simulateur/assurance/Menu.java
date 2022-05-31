@@ -17,6 +17,7 @@ private static String dateNaissance;
 private static boolean statut;
 private static boolean nbEnfants;
 static boolean aEnfants = false;
+static boolean aConjoint = false;
 
 //TO FINISH
 }
