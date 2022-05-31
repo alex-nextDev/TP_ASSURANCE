@@ -20,7 +20,8 @@ static boolean aEnfants = false;
 static boolean aConjoint = false;
 static int chevaux = 0;
 static int cylindree = 0;
-static double bonusMalus = 0.0;	
+static double bonusMalus = 0.0;
+static int anneeAssurance = 0;
 
 //TO FINISH
 }
