@@ -26,6 +26,7 @@ static boolean aGarage;
 static int surface;
 static int nbPersonneMaison;
 static boolean check = false;
+static double majorationChevauxTab;	
 
 //TO FINISH
 }
