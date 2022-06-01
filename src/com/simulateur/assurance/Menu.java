@@ -25,6 +25,7 @@ static int anneeAssurance = 0;
 static boolean aGarage;
 static int surface;
 static int nbPersonneMaison;
+static boolean check = false;
 
 //TO FINISH
 }
