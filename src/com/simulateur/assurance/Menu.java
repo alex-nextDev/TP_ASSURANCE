@@ -23,6 +23,7 @@ static int cylindree = 0;
 static double bonusMalus = 0.0;
 static int anneeAssurance = 0;
 static boolean aGarage;
+static int surface;
 
 //TO FINISH
 }
