@@ -24,6 +24,7 @@ static double bonusMalus = 0.0;
 static int anneeAssurance = 0;
 static boolean aGarage;
 static int surface;
+static int nbPersonneMaison;
 
 //TO FINISH
 }
