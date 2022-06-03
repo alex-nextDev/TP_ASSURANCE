@@ -29,6 +29,7 @@ static boolean check = false;
 static double majorationChevauxTab;
 static double conjointTab;
 static double enfantsTab;
+static double reductionTab;
 
 //TO FINISH
 }
