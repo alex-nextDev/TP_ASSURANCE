@@ -28,6 +28,7 @@ static int nbPersonneMaison;
 static boolean check = false;
 static double majorationChevauxTab;
 static double conjointTab;
+static double enfantsTab;
 
 //TO FINISH
 }
