@@ -37,6 +37,8 @@ public static void saisirInfos() throws InputMismatchException
 		
 		int choiceAssurance = 0;
 		System.out.println("+-------------- ASSURANCE --------------+");
+		
+		Scanner lecteur = new Scanner(System.in) ;
         
 		
 				
