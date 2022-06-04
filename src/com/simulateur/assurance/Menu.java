@@ -39,6 +39,7 @@ public static void saisirInfos() throws InputMismatchException
 		System.out.println("+-------------- ASSURANCE --------------+");
 		
 		Scanner lecteur = new Scanner(System.in) ;
+		Scanner lecteur2 = new Scanner(System.in);
         
 		
 				
