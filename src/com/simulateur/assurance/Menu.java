@@ -31,6 +31,29 @@ static double conjointTab;
 static double enfantsTab;
 static double reductionTab;
 
+
+public static void saisirInfos() throws InputMismatchException
+	{
+		
+		int choiceAssurance = 0;								
+        
+		
+				
+			
+		do
+		{																
+			try 
+			{		
+				
+			  }    
+			  catch (InputMismatchException e)
+			  {												
+				  System.out.println("Erreur !!! vous ne respectez pas le format de date recommandé");
+				  check = false;
+			  }
+		}
+		while (check == false);
+
 //TO FINISH
 }
 
