@@ -43,6 +43,9 @@ public static void saisirInfos() throws InputMismatchException
 		
 		System.out.print("Veuillez saisir votre nom ? : ");
 				nom = lecteur2.next();
+				
+				System.out.print("Veuillez saisir votre prénom ? : ");
+				prenom = lecteur2.next();
         
 		
 				
