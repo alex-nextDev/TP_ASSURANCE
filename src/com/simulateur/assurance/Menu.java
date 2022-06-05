@@ -40,6 +40,9 @@ public static void saisirInfos() throws InputMismatchException
 		
 		Scanner lecteur = new Scanner(System.in) ;
 		Scanner lecteur2 = new Scanner(System.in);
+		
+		System.out.print("Veuillez saisir votre nom ? : ");
+				nom = lecteur2.next();
         
 		
 				
