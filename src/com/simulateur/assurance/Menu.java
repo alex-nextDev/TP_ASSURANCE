@@ -56,6 +56,8 @@ public static void saisirInfos() throws InputMismatchException
 			{	
 			
 			Scanner dateN = new Scanner(System.in);
+			
+			check = true;
 				
 			  }    
 			  catch (InputMismatchException e)
