@@ -58,6 +58,8 @@ public static void saisirInfos() throws InputMismatchException
 			Scanner dateN = new Scanner(System.in);
 			
 			check = true;
+			
+			System.out.print("Veuillez saisir votre date de naissance (dd/mm/yyyy) ? : ");
 				
 			  }    
 			  catch (InputMismatchException e)
