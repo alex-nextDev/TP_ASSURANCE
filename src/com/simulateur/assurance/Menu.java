@@ -64,6 +64,11 @@ public static void saisirInfos() throws InputMismatchException
 			Calendar calendar = Calendar.getInstance();
 			int annee = calendar.get( Calendar.YEAR );
 			int dateNaiss=Integer.parseInt(dateNaissance.substring(6, 10));
+			if (dateNaiss > annee - 16)
+				{														
+					System.out.println("Il faut avoir au moins 16 ans pour être conducteur accompagné");
+					  check = false;
+				}
 				
 			  }    
 			  catch (InputMismatchException e)
