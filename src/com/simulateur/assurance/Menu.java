@@ -87,6 +87,8 @@ public static void saisirInfos() throws InputMismatchException
 		do
 		{
 		Scanner choixAssurance = new Scanner(System.in);
+		check = true;
+		
 		}
 
 //TO FINISH
