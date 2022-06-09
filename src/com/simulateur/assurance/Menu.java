@@ -86,6 +86,7 @@ public static void saisirInfos() throws InputMismatchException
 		
 		do
 		{
+		}
 
 //TO FINISH
 }
