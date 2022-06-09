@@ -69,6 +69,11 @@ public static void saisirInfos() throws InputMismatchException
 					System.out.println("Il faut avoir au moins 16 ans pour être conducteur accompagné");
 					  check = false;
 				}
+				if (dateNaiss > annee)
+				{														
+					System.out.println("Erreur");
+					  check = false;
+				}
 				
 			  }    
 			  catch (InputMismatchException e)
