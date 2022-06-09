@@ -83,6 +83,9 @@ public static void saisirInfos() throws InputMismatchException
 			  }
 		}
 		while (check == false);
+		
+		do
+		{
 
 //TO FINISH
 }
