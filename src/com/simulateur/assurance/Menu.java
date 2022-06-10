@@ -92,6 +92,7 @@ public static void saisirInfos() throws InputMismatchException
 		}
 		try
 			{
+			}
 
 //TO FINISH
 }
