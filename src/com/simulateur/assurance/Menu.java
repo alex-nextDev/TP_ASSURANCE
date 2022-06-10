@@ -90,6 +90,8 @@ public static void saisirInfos() throws InputMismatchException
 		check = true;
 		
 		}
+		try
+			{
 
 //TO FINISH
 }
