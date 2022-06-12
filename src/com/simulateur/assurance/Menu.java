@@ -93,6 +93,7 @@ public static void saisirInfos() throws InputMismatchException
 		try
 			{
 			System.out.println("\nQuel contrat souhaitez-vous ?\n");
+			System.out.println("Veuillez saisir 1 pour Voiture");
 			}
 
 //TO FINISH
