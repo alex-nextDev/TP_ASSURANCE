@@ -97,7 +97,9 @@ public static void saisirInfos() throws InputMismatchException
 			System.out.println("Veuillez saisir 2 pour Moto");
 			System.out.println("Veuillez saisir 3 pour Maison\n");
 			
-			choiceAssurance = choixAssurance.nextInt();	
+			choiceAssurance = choixAssurance.nextInt();
+			
+			
 			}
 
 //TO FINISH
