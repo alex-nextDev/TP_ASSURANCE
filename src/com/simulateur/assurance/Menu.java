@@ -99,7 +99,8 @@ public static void saisirInfos() throws InputMismatchException
 			
 			choiceAssurance = choixAssurance.nextInt();
 			
-			
+			switch (choiceAssurance)
+				{
 			}
 
 //TO FINISH
