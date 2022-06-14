@@ -106,6 +106,10 @@ public static void saisirInfos() throws InputMismatchException
 				case 1 :
 				System.out.println("CONTRAT VOITURE");
 				char estMarie;
+				
+				do		
+				{
+				
 				}
 			}
 
