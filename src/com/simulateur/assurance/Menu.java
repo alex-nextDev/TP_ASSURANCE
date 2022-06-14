@@ -103,7 +103,7 @@ public static void saisirInfos() throws InputMismatchException
 			
 				{
 				
-				
+				case 1 : 
 				}
 			}
 
