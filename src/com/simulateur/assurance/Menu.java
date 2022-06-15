@@ -111,6 +111,7 @@ public static void saisirInfos() throws InputMismatchException
 				{
 				System.out.print("Etes vous marié ? Oui (O ou o) ou Non (N ou n)");
 				aEnfants = lecteur.next().charAt(0);
+				if (aEnfants!='o' && aEnfants!='O' && aEnfants!='n' && aEnfants!='N' )
 				}
 			}
 
