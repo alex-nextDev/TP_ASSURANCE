@@ -114,7 +114,9 @@ public static void saisirInfos() throws InputMismatchException
 				if (aEnfants!='o' && aEnfants!='O' && aEnfants!='n' && aEnfants!='N' )
 				 {
 				   System.out.println("Il faut répondre par Oui (O ou o) ou par Non (N ou n)");
+				   
 				 }
+				 while (aEnfants!='o' && aEnfants!='O' && aEnfants!='n' && aEnfants!='N' );
 				}
 			}
 
