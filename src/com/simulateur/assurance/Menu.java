@@ -125,6 +125,7 @@ public static void saisirInfos() throws InputMismatchException
 				 else
 				 {
 				 nbEnfants = false;
+				 }
 			}
 
 //TO FINISH
