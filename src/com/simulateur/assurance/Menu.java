@@ -121,6 +121,9 @@ public static void saisirInfos() throws InputMismatchException
 				if (aEnfants=='o' || aEnfants=='O')
 				{				
 				  nbEnfants = true;
+				 }
+				 else
+				 {
 			}
 
 //TO FINISH
