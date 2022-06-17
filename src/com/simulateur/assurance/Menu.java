@@ -118,6 +118,7 @@ public static void saisirInfos() throws InputMismatchException
 				 }
 				 while (aEnfants!='o' && aEnfants!='O' && aEnfants!='n' && aEnfants!='N' );
 				}
+				if (aEnfants=='o' || aEnfants=='O')
 			}
 
 //TO FINISH
