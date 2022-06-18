@@ -126,6 +126,8 @@ public static void saisirInfos() throws InputMismatchException
 				 {
 				 nbEnfants = false;
 				 }
+				 
+				 Client clients = new Client(nom, prenom, dateNaissance, statut, nbEnfants);	
 			}
 
 //TO FINISH
