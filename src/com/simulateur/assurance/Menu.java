@@ -129,6 +129,11 @@ public static void saisirInfos() throws InputMismatchException
 				 
 				 Client clients = new Client(nom, prenom, dateNaissance, statut, nbEnfants);	
 				 ContratAssuranceVoiture voiture = new ContratAssuranceVoiture();
+				 
+				 do
+				{ 
+				  try 
+				  {	
 			}
 
 //TO FINISH
