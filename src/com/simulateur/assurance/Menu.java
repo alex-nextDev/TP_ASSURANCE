@@ -135,6 +135,7 @@ public static void saisirInfos() throws InputMismatchException
 				  try 
 				  {
 				  System.out.print("Nombre de chevaux de votre voiture entre 4 et 10 : ");
+				  chevaux =;
 			}
 
 //TO FINISH
