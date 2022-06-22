@@ -138,6 +138,7 @@ public static void saisirInfos() throws InputMismatchException
 				  chevaux = lecteur.nextInt();
 				  check = true:
 				  }
+				  catch (InputMismatchException e)
 			}
 
 //TO FINISH
