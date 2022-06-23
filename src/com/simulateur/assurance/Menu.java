@@ -141,7 +141,7 @@ public static void saisirInfos() throws InputMismatchException
 				  catch (InputMismatchException e)
 				  {
 				  System.out.println("Erreur !!! Vous devez saisir un chiffre entre 4 et 10");
-				  check = ;
+				  check = false;
 				  }
 				  
 			}
