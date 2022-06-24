@@ -151,7 +151,8 @@ public static void saisirInfos() throws InputMismatchException
 				  Scanner choixBonusMalus = new Scanner( System.in );
 				 }
 				 try
-							{	
+				   {
+				   }
 			}
 
 //TO FINISH
