@@ -147,8 +147,9 @@ public static void saisirInfos() throws InputMismatchException
 				 while (check == false || (chevaux < 4 || chevaux > 10));
 				 
 				 do
-						{ 
-							Scanner choixBonusMalus = new Scanner( System.in );
+				 { 
+				  Scanner choixBonusMalus = new Scanner( System.in );
+					  }
 			}
 
 //TO FINISH
