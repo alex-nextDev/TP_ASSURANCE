@@ -149,7 +149,7 @@ public static void saisirInfos() throws InputMismatchException
 				 do
 				 { 
 				  Scanner choixBonusMalus = new Scanner( System.in );
-					  }
+				 }
 			}
 
 //TO FINISH
