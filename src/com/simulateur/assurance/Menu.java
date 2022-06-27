@@ -153,6 +153,7 @@ public static void saisirInfos() throws InputMismatchException
 				 try
 				   {
 				   System.out.print("Le bonus ou Malus de votre voiture doit être compris entre 0,5 et 1,5 : ");
+				   String chiffreFormater =
 				   }
 			}
 
