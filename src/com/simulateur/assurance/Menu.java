@@ -159,6 +159,7 @@ public static void saisirInfos() throws InputMismatchException
 				   
 				   if (bonusMalus < 0.5 || bonusMalus > 1.5)
 				   {
+				   }
 				   
 				   }
 			}
