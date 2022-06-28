@@ -158,6 +158,7 @@ public static void saisirInfos() throws InputMismatchException
 				    bonusMalus = Double.parseDouble(chiffreFormater);
 				   
 				   if (bonusMalus < 0.5 || bonusMalus > 1.5)
+				   {
 				   
 				   }
 			}
