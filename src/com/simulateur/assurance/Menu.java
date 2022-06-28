@@ -157,6 +157,8 @@ public static void saisirInfos() throws InputMismatchException
 				   chiffreFormater = chiffreFormater.replaceAll(",",".");
 				    bonusMalus = Double.parseDouble(chiffreFormater);
 				   
+				   if (bonusMalus < 0.5 || bonusMalus > 1.5)
+				   
 				   }
 			}
 
