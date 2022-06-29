@@ -162,7 +162,8 @@ public static void saisirInfos() throws InputMismatchException
 				   System.out.println("Erreur !!! Veuillez saisir un chiffre entre 0,5 et 1,5");
 				   }
 				   check = true;
-				   
+				   }    
+							  catch (InputMismatchException e)
 				   
 				   }
 			}
