@@ -163,9 +163,12 @@ public static void saisirInfos() throws InputMismatchException
 				   }
 				   check = true;
 				   }    
-							  catch (InputMismatchException e)
+				   catch (InputMismatchException e)
 				   
 				   }
+				   
+				   {									
+								  System.out.println("Erreur !!! Veuillez séparer les décimales par une virgule");
 			}
 
 //TO FINISH
