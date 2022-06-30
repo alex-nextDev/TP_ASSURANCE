@@ -175,7 +175,7 @@ public static void saisirInfos() throws InputMismatchException
 						while (check == false || (bonusMalus < 0.5 || bonusMalus > 1.5));
 						
 						System.out.print("Nombre d'années d'assurance : ");
-						anneeAssurance = ;
+						anneeAssurance = lecteur.nextInt();
 			}
 
 //TO FINISH
