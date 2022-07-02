@@ -179,7 +179,9 @@ public static void saisirInfos() throws InputMismatchException
 						
 						while (anneeAssurance < 0)
 						{
-						if (anneeAssurance < 0 )
+						  if (anneeAssurance < 0 )
+						  {
+						  }
 						}
 			}
 
