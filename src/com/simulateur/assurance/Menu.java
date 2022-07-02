@@ -178,6 +178,7 @@ public static void saisirInfos() throws InputMismatchException
 						anneeAssurance = lecteur.nextInt();
 						
 						while (anneeAssurance < 0)
+						{
 			}
 
 //TO FINISH
