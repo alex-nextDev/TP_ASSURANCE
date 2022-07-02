@@ -170,7 +170,7 @@ public static void saisirInfos() throws InputMismatchException
 				   {									
 					System.out.println("Erreur !!! Veuillez séparer les décimales par une virgule");
 					check=false;
-								   }
+				   }
 								   
 						while (check == false || (bonusMalus < 0.5 || bonusMalus > 1.5));
 						
