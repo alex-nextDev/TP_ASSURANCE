@@ -188,7 +188,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						if (clients.isStatut())
 						{
-						
+						  char conjoint = 0;
 						}
 			}
 
