@@ -187,6 +187,8 @@ public static void saisirInfos() throws InputMismatchException
 						
 						
 						if (clients.isStatut())
+						{
+						}
 			}
 
 //TO FINISH
