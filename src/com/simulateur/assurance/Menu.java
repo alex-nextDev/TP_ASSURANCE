@@ -184,6 +184,9 @@ public static void saisirInfos() throws InputMismatchException
 						    System.out.println("Erreur !!! Veuillez saisir un chiffre supérieur à 0");
 						  }
 						}
+						
+						
+						if (clients.isStatut())
 			}
 
 //TO FINISH
