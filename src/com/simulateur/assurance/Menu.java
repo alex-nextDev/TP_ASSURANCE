@@ -190,6 +190,8 @@ public static void saisirInfos() throws InputMismatchException
 						{
 						  char conjoint = 0;
 						}
+						
+						while (conjoint!='o' && conjoint!='O' && conjoint!='n' && conjoint!='N')
 			}
 
 //TO FINISH
