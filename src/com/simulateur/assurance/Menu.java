@@ -192,6 +192,7 @@ public static void saisirInfos() throws InputMismatchException
 						}
 						
 						while (conjoint!='o' && conjoint!='O' && conjoint!='n' && conjoint!='N')
+						{
 			}
 
 //TO FINISH
