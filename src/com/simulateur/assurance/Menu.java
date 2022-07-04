@@ -193,6 +193,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						while (conjoint!='o' && conjoint!='O' && conjoint!='n' && conjoint!='N')
 						{
+						System.out.print("Votre conjoint sera assuré ? Oui (O ou o) ou (N ou n)");
 			}
 
 //TO FINISH
