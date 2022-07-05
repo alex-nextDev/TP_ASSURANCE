@@ -198,6 +198,7 @@ public static void saisirInfos() throws InputMismatchException
 						  
 						  if (conjoint !='o' && conjoint !='O' && conjoint !='n' && conjoint !='N')
 						  {
+						    System.out.println();
 						  }
 			}
 
