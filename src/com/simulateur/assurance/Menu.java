@@ -195,6 +195,8 @@ public static void saisirInfos() throws InputMismatchException
 						{
 						  System.out.print("Votre conjoint sera assuré ? Oui (O ou o) ou (N ou n)");
 						  conjoint = lecteur.next().charAt(0);
+						  
+						  if (conjoint !='o' && conjoint !='O' && conjoint !='n' && conjoint !='N')
 			}
 
 //TO FINISH
