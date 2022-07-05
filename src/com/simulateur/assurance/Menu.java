@@ -197,6 +197,7 @@ public static void saisirInfos() throws InputMismatchException
 						  conjoint = lecteur.next().charAt(0);
 						  
 						  if (conjoint !='o' && conjoint !='O' && conjoint !='n' && conjoint !='N')
+						  {
 			}
 
 //TO FINISH
