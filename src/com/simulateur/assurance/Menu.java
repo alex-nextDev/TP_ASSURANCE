@@ -202,6 +202,7 @@ public static void saisirInfos() throws InputMismatchException
 						  }
 						  if (conjoint == 'o' || conjoint == 'O')
 						  {
+						    aConjoint = ;
 						  }
 			}
 
