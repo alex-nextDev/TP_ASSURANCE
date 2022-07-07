@@ -207,7 +207,7 @@ public static void saisirInfos() throws InputMismatchException
 						  }
 						   else
 						   {
-						   aConjoint = 
+						   aConjoint = false;
 						   
 			}
 
