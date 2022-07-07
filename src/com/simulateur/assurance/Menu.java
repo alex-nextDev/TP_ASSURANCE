@@ -208,6 +208,7 @@ public static void saisirInfos() throws InputMismatchException
 						   else
 						   {
 						   aConjoint = false;
+						   }
 						   
 			}
 
