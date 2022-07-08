@@ -212,6 +212,8 @@ public static void saisirInfos() throws InputMismatchException
 			                        }
 						
 					if (clients.isNbEnfants())
+					{
+					}
 						
 
 //TO FINISH
