@@ -189,9 +189,9 @@ public static void saisirInfos() throws InputMismatchException
 						if (clients.isStatut())
 						{
 						  char conjoint = 0;
-						}
+						 }
 						
-						while (conjoint!='o' && conjoint!='O' && conjoint!='n' && conjoint!='N')
+						 while (conjoint!='o' && conjoint!='O' && conjoint!='n' && conjoint!='N')
 						{
 						  System.out.print("Votre conjoint sera assuré ? Oui (O ou o) ou (N ou n)");
 						  conjoint = lecteur.next().charAt(0);
@@ -209,7 +209,7 @@ public static void saisirInfos() throws InputMismatchException
 						   {
 						   aConjoint = false;
 						   }
-						  }
+						 }
 						   
 			}
 
