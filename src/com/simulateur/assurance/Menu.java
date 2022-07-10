@@ -210,9 +210,9 @@ public static void saisirInfos() throws InputMismatchException
 						
 					if (clients.isNbEnfants())
 					{
-							char enfants = 0;
+					  char enfants = 0;
 					}
-					
+					while (enfants!='o' && enfants!='O' && enfants!='n' && enfants!='N')
 					
 
 //TO FINISH
