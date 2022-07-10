@@ -213,6 +213,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 					if (clients.isNbEnfants())
 					{
+							char enfants = ;
 					}
 						
 
