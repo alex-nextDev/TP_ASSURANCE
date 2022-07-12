@@ -213,6 +213,8 @@ public static void saisirInfos() throws InputMismatchException
 					  char enfants = 0;
 					}
 					while (enfants!='o' && enfants!='O' && enfants!='n' && enfants!='N')
+					{		
+								System.out.print("Est-ce que votre enfant sera assuré(e) ?  Oui (O ou o) ou Non (N ou n)");
 					
 
 //TO FINISH
