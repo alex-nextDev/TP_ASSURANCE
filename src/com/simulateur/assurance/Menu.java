@@ -218,7 +218,8 @@ public static void saisirInfos() throws InputMismatchException
 								enfants = lecteur.next().charAt(0);
 								
 								if (enfants!='o' && enfants!='O' && enfants!='n' && enfants!='N')
-								{		
+								{	
+								  System.out.println();
 					
 
 //TO FINISH
