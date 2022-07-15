@@ -221,6 +221,10 @@ public static void saisirInfos() throws InputMismatchException
 								{	
 								  System.out.println("Veuillez saisir Oui (O ou o) ou Non (N ou n)");
 								}
+								
+								if (enfants =='o' || enfants =='O')
+								{
+								
 					
 
 //TO FINISH
