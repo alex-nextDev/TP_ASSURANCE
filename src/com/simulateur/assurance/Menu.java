@@ -228,7 +228,7 @@ public static void saisirInfos() throws InputMismatchException
 								}
 								else
 								{
-									nbEnfants = ;
+									nbEnfants = false;
 								}
 								
 								
