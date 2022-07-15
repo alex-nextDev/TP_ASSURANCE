@@ -225,6 +225,11 @@ public static void saisirInfos() throws InputMismatchException
 								if (enfants =='o' || enfants =='O')
 								{
 								nbEnfants = true;
+								}
+								else
+								{
+									nbEnfants = ;
+								}
 								
 								
 								
