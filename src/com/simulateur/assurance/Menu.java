@@ -237,7 +237,8 @@ public static void saisirInfos() throws InputMismatchException
 				
 						ContratAssuranceVoiture contratAssuranceVoiture = new ContratAssuranceVoiture(chevaux, bonusMalus, anneeAssurance, aConjoint, nbEnfants);
 						
-								
+							
+							
 								
 								
 					
