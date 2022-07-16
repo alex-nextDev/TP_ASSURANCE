@@ -231,6 +231,13 @@ public static void saisirInfos() throws InputMismatchException
 									nbEnfants = false;
 								}
 								
+						}
+			
+						
+				
+						ContratAssuranceVoiture contratAssuranceVoiture = new ContratAssuranceVoiture(chevaux, bonusMalus, anneeAssurance, aConjoint, nbEnfants);
+						
+								
 								
 								
 					
