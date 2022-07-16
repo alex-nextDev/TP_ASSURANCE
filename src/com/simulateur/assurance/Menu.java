@@ -236,7 +236,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 				
 						ContratAssuranceVoiture contratAssuranceVoiture = new ContratAssuranceVoiture(chevaux, bonusMalus, anneeAssurance, aConjoint, nbEnfants);
-						
+						double tarifVoiture = CalculTarif.tarifsVoit(contratAssuranceVoiture.baseAuto, contratAssuranceVoiture.getMajChevauxTab(),contratAssuranceVoiture.getNbChevaux(), contratAssuranceVoiture.getReductionTab(), contratAssuranceVoiture.getConjointTab(), contratAssuranceVoiture.getEnfantsTab(), contratAssuranceVoiture.getBonsuMalus());
 							
 							
 								
