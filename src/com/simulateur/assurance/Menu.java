@@ -241,7 +241,7 @@ public static void saisirInfos() throws InputMismatchException
 						NumberFormat numformat = new DecimalFormat("#.00");
 						System.out.println("Le tarif est de : " + numformat.format(tarifVoiture)+ "€");
 						
-						Imprimer.imprimerVoiture(getNom(),  getPrenom(), tarifVoiture , statut);
+						Imprimer.imprimerVoiture(getNom(),  getPrenom(), tarifVoiture , statut, nbEnfants );
 						
 							
 								
