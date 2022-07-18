@@ -243,6 +243,8 @@ public static void saisirInfos() throws InputMismatchException
 						
 						Imprimer.imprimerVoiture(getNom(),  getPrenom(), tarifVoiture , statut, nbEnfants );
 						
+						break;
+						
 							
 								
 								
