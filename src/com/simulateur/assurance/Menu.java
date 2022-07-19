@@ -248,7 +248,9 @@ public static void saisirInfos() throws InputMismatchException
 							
 						case 2 : 
 						
-						System.out.println("CONTRAT MOTO");	
+						System.out.println("CONTRAT MOTO");
+						
+						ContratAssuranceMoto contratMoto = ;	
 								
 					
 
