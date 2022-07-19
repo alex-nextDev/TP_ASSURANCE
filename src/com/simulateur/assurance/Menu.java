@@ -246,7 +246,7 @@ public static void saisirInfos() throws InputMismatchException
 						break;
 						
 							
-								
+						case 2 : 	
 								
 					
 
