@@ -250,7 +250,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						System.out.println("CONTRAT MOTO");
 						
-						ContratAssuranceMoto contratMoto = ;	
+						ContratAssuranceMoto contratMoto = new ContratAssuranceMoto();	
 								
 					
 
