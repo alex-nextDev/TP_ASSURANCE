@@ -252,7 +252,6 @@ public static void saisirInfos() throws InputMismatchException
 						
 						ContratAssuranceMoto contratMoto = new ContratAssuranceMoto();	
 								
-					
 
 //TO FINISH
 }
