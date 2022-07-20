@@ -255,6 +255,9 @@ public static void saisirInfos() throws InputMismatchException
 						do
 						{ 
 							Scanner bonusMalusVoiture = new Scanner(System.in);
+							try
+							{		
+								System.out.print();
 								
 
 //TO FINISH
