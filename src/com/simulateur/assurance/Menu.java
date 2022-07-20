@@ -257,7 +257,7 @@ public static void saisirInfos() throws InputMismatchException
 							Scanner bonusMalusVoiture = new Scanner(System.in);
 							try
 							{		
-								System.out.print();
+								System.out.print("Le bonnus/Malus de votre voiture doit être compris entre 0,5 et 1,5 : ");
 								
 
 //TO FINISH
