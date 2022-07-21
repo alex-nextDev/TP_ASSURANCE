@@ -258,7 +258,7 @@ public static void saisirInfos() throws InputMismatchException
 							try
 							{		
 								System.out.print("Le bonnus/Malus de votre voiture doit être compris entre 0,5 et 1,5 : ");
-								String chiffreDouble = ;
+								String chiffreDouble = bonusMalusVoiture.next("^[0-9,]+$");
 
 //TO FINISH
 }
