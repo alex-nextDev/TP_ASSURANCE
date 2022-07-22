@@ -266,7 +266,7 @@ public static void saisirInfos() throws InputMismatchException
 								{								
 								  System.out.println("Erreur !!! Vous devez saisir un chiffre entre 0,5 et 1,5\n");
 								 }
-								check = ;	
+								check = true;	
 
 //TO FINISH
 }
