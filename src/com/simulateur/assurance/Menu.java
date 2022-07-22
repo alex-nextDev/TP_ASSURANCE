@@ -265,6 +265,8 @@ public static void saisirInfos() throws InputMismatchException
 								if (bonusMalus < 0.5 || bonusMalus > 1.5)
 								{								
 								  System.out.println("Erreur !!! Vous devez saisir un chiffre entre 0,5 et 1,5\n");
+								 }
+								check = ;	
 
 //TO FINISH
 }
