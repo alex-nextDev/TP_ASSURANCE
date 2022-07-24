@@ -269,6 +269,7 @@ public static void saisirInfos() throws InputMismatchException
 								check = true;	
 								}    
 							  catch (InputMismatchException e)
+							  
 
 //TO FINISH
 }
