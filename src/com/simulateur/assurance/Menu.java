@@ -271,6 +271,7 @@ public static void saisirInfos() throws InputMismatchException
 							  catch (InputMismatchException e)
 							   {									
 								  System.out.println("");
+								  check = ;
 							  
 
 //TO FINISH
