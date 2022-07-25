@@ -274,6 +274,7 @@ public static void saisirInfos() throws InputMismatchException
 								  check = false;
 								  }
 						}
+						while (check == false || (bonusMalus < 0.5 || bonusMalus > 1.5));
 							  
 
 //TO FINISH
