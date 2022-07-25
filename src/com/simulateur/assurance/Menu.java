@@ -275,7 +275,7 @@ public static void saisirInfos() throws InputMismatchException
 								  }
 						}
 						while (check == false || (bonusMalus < 0.5 || bonusMalus > 1.5));
-						System.out.print();
+						System.out.print("Quelle est la cylindrée ? ");
 							  
 
 //TO FINISH
