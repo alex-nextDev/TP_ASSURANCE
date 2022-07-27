@@ -284,6 +284,9 @@ public static void saisirInfos() throws InputMismatchException
 							if (cylindree < 50 || cylindree > 1900)
 							{
 							    System.out.println("Veuillez saisir un nombre compris entre 50 et 1900");
+							    }
+							contratMoto.setCylindree(cylindree); 					
+						}
 
 //TO FINISH
 }
