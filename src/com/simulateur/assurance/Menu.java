@@ -279,6 +279,9 @@ public static void saisirInfos() throws InputMismatchException
 						cylindree = lecteur.nextInt();
 						
 						   while (cylindree < 50 || cylindree > 1900)
+						   {			
+		
+							if (cylindree < 50 || cylindree > 1900)
 
 //TO FINISH
 }
