@@ -278,7 +278,7 @@ public static void saisirInfos() throws InputMismatchException
 						System.out.print("Quelle est la cylindrée ? ");
 						cylindree = lecteur.nextInt();
 						
-							  while (cylindree < 50 || cylindree > 1900)
+						   while (cylindree < 50 || cylindree > 1900)
 
 //TO FINISH
 }
