@@ -293,6 +293,8 @@ public static void saisirInfos() throws InputMismatchException
 						{				
 		
 							if (anneeAssurance < 0)
+							{
+								System.out.println("Veuillez saisir un chiffre supérieur à 0");
 
 //TO FINISH
 }
