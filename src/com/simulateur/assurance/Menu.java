@@ -287,6 +287,7 @@ public static void saisirInfos() throws InputMismatchException
 							    }
 							contratMoto.setCylindree(cylindree); 					
 						}
+						System.out.print("Nombre d'années d'assurance : ");
 
 //TO FINISH
 }
