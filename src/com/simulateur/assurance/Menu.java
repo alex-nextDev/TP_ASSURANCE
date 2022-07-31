@@ -298,7 +298,7 @@ public static void saisirInfos() throws InputMismatchException
 							}
 						
 						}
-						Client clientsMoto = ;
+						Client clientsMoto = new Client();
 
 //TO FINISH
 }
