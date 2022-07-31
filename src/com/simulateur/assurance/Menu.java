@@ -298,6 +298,7 @@ public static void saisirInfos() throws InputMismatchException
 							}
 						
 						}
+						Client clientsMoto = ;
 
 //TO FINISH
 }
