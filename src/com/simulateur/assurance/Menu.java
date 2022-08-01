@@ -300,7 +300,7 @@ public static void saisirInfos() throws InputMismatchException
 						}
 						Client clientsMoto = new Client(nom, prenom, dateNaissance, statut, nbEnfants);
 						
-						ContratAssuranceMoto contratmoto = new ContratAssuranceMoto() ;
+						ContratAssuranceMoto contratmoto = new ContratAssuranceMoto(cylindree) ;
 
 //TO FINISH
 }
