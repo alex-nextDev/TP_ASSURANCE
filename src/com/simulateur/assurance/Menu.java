@@ -304,7 +304,7 @@ public static void saisirInfos() throws InputMismatchException
 
 						double tarifMoto = CalculTarif.tarifsMoto(contratmoto.baseMoto, contratmoto.getMajChevauxTab(), contratmoto.getBonusMalus(),contratmoto.getNbAnneeAssurance());
 
-						NumberFormat numformat2 = ;
+						NumberFormat numformat2 = new DecimalFormat("#.00");
 //TO FINISH
 }
 
