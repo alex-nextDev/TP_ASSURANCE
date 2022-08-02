@@ -302,7 +302,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						ContratAssuranceMoto contratmoto = new ContratAssuranceMoto(cylindree, anneeAssurance, bonusMalus) ;
 
-						double tarifMoto = ;
+						double tarifMoto = CalculTarif.tarifsMoto();
 //TO FINISH
 }
 
