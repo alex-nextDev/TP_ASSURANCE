@@ -303,6 +303,8 @@ public static void saisirInfos() throws InputMismatchException
 						ContratAssuranceMoto contratmoto = new ContratAssuranceMoto(cylindree, anneeAssurance, bonusMalus) ;
 
 						double tarifMoto = CalculTarif.tarifsMoto(contratmoto.baseMoto, contratmoto.getMajChevauxTab(), contratmoto.getBonusMalus(),contratmoto.getNbAnneeAssurance());
+
+						NumberFormat numformat2 = ;
 //TO FINISH
 }
 
