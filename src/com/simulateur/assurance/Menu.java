@@ -307,6 +307,8 @@ public static void saisirInfos() throws InputMismatchException
 						NumberFormat numformat2 = new DecimalFormat("#.00");
 						System.out.println("Le tarif est de : " + numformat2.format(tarifMoto) + "€");
 						Imprimer.imprimerMoto(getNom(),  getPrenom(), tarifMoto );
+						ContratAuto auto = new ContratAuto();
+						break;
 						
 //TO FINISH
 }
