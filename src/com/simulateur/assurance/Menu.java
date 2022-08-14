@@ -217,7 +217,7 @@ public static void saisirInfos() throws InputMismatchException
 						System.out.print("Est-ce que votre enfant sera assuré(e) ?  Oui (O ou o) ou Non (N ou n)")
 						enfants = lecteur.next().charAt(0);
 								
-								if (enfants!='o' && enfants!='O' && enfants!='n' && enfants!='N')
+							if (enfants!='o' && enfants!='O' && enfants!='n' && enfants!='N')
 								{	
 								  System.out.println("Veuillez saisir Oui (O ou o) ou Non (N ou n)");
 								}
