@@ -308,7 +308,11 @@ public static void saisirInfos() throws InputMismatchException
 						System.out.println("Le tarif est de : " + numformat2.format(tarifMoto) + "€");
 						Imprimer.imprimerMoto(getNom(),  getPrenom(), tarifMoto );
 						
-						ContratAuto auto = new ContratAuto();
+						//ContratAuto auto = new ContratAuto();
+						
+						case 3 : 
+						
+						System.out.println("CONTRAT HABITATION");
 						
 						break;
 						
