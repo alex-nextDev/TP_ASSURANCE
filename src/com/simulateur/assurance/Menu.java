@@ -316,6 +316,12 @@ public static void saisirInfos() throws InputMismatchException
 						do
 						{ 
 							Scanner choixSurface = new Scanner(System.in);
+							try 
+							{		
+								System.out.print("Quelle est la surface ? ");		
+								surface = choixSurface.nextInt();
+								check = true;
+							}    
 							
 						
 						break;
