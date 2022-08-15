@@ -313,6 +313,9 @@ public static void saisirInfos() throws InputMismatchException
 						case 3 : 
 						
 						System.out.println("CONTRAT HABITATION");
+						do
+						{ 
+							Scanner choixSurface = new Scanner(System.in);
 						
 						break;
 						
