@@ -316,6 +316,7 @@ public static void saisirInfos() throws InputMismatchException
 						do
 						{ 
 							Scanner choixSurface = new Scanner(System.in);
+							
 						
 						break;
 						
