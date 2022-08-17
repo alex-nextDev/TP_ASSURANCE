@@ -333,6 +333,8 @@ public static void saisirInfos() throws InputMismatchException
 						}
 						while (check == false || surface < 10);
 						
+						char possedeGarage;
+						
 						break;
 						
 //TO FINISH
