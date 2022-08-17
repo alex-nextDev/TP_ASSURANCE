@@ -329,6 +329,9 @@ public static void saisirInfos() throws InputMismatchException
 							  System.out.println("Veuillez saisir un nombre supérieur ou égal à 10");
 							  check = false;
 							}
+							
+							}
+						while (check == false || surface < 10);
 						
 						break;
 						
