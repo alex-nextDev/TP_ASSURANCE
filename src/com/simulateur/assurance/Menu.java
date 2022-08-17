@@ -335,6 +335,10 @@ public static void saisirInfos() throws InputMismatchException
 						
 						char possedeGarage;
 						
+						do
+						{
+							System.out.print();
+						
 						break;
 						
 //TO FINISH
