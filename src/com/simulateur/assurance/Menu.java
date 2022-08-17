@@ -330,7 +330,7 @@ public static void saisirInfos() throws InputMismatchException
 							  check = false;
 							}
 							
-							}
+						}
 						while (check == false || surface < 10);
 						
 						break;
