@@ -340,6 +340,10 @@ public static void saisirInfos() throws InputMismatchException
 							System.out.print("Avez vous un garage Oui (O ou o) ou Non (N ou n) ? : ");
 							
 							possedeGarage = lecteur.next().charAt(0);
+							
+							if (possedeGarage !='o' && possedeGarage !='O' && possedeGarage !='n' && possedeGarage !='N' ) {		
+								System.out.println("Vous devez saisir Oui (O ou o) ou Non (N ou n)");
+							}
 						
 						break;
 						
