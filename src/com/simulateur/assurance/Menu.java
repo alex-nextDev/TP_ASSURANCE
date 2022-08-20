@@ -347,7 +347,7 @@ public static void saisirInfos() throws InputMismatchException
 							}
 						
 						}
-						while ();
+						while (possedeGarage != 'o' && possedeGarage != 'O' && possedeGarage != 'n' && possedeGarage != 'N' );
 						
 						break;
 						
