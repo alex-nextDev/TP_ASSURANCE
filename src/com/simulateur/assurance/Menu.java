@@ -346,6 +346,9 @@ public static void saisirInfos() throws InputMismatchException
 								System.out.println("Vous devez saisir Oui (O ou o) ou Non (N ou n)");
 							}
 						
+						}
+						while ();
+						
 						break;
 						
 //TO FINISH
