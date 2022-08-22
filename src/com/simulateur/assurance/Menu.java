@@ -367,6 +367,7 @@ public static void saisirInfos() throws InputMismatchException
 								 Scanner personneFoyer = new Scanner( System.in );
 								 try 
 							         {
+								     System.out.print("Nombre de personne dans le foyer ? ");
 
 						break;
 						
