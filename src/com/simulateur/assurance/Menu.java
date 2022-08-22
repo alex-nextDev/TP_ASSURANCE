@@ -361,6 +361,9 @@ public static void saisirInfos() throws InputMismatchException
 							aGarage = false;
 							
 						           }
+							   
+							   do
+							   { 
 						
 						break;
 						
