@@ -364,7 +364,8 @@ public static void saisirInfos() throws InputMismatchException
 							   
 							   do
 							   { 
-						
+								 Scanner personneFoyer = new Scanner( System.in );
+
 						break;
 						
 //TO FINISH
