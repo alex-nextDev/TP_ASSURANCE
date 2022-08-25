@@ -371,6 +371,9 @@ public static void saisirInfos() throws InputMismatchException
 								     
 								     String persFoy = personneFoyer.next("[0-9_]+");
 								     nbPersonneMaison = Integer.parseInt(persFoy);
+								     check = true;
+							 
+
 								
 								     
 								
