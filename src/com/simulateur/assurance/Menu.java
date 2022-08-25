@@ -370,6 +370,7 @@ public static void saisirInfos() throws InputMismatchException
 								     System.out.print("Nombre de personne dans le foyer ? ");
 								     
 								     String persFoy = personneFoyer.next("[0-9_]+");
+								     
 								
 						break;
 						
