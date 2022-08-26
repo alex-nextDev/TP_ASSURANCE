@@ -378,6 +378,8 @@ public static void saisirInfos() throws InputMismatchException
 							{
 							
 							  System.out.println("Erreur !!! Il doit y avoir au minimum une personne dans un foyer");
+							  
+							  check =;
 							
 								
 							 
