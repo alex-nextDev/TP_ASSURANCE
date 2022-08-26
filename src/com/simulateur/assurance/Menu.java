@@ -384,7 +384,7 @@ public static void saisirInfos() throws InputMismatchException
 						}
 						while (check == false || nbPersonneMaison < 0);
 						
-						ContratAssuranceMaison contratMaison =  ;
+						ContratAssuranceMaison contratMaison =  new ContratAssuranceMaison();
 							
 								
 							 
