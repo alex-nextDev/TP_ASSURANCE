@@ -386,7 +386,9 @@ public static void saisirInfos() throws InputMismatchException
 						
 						ContratAssuranceMaison contratMaison =  new ContratAssuranceMaison(surface, aGarage, nbPersonneMaison);
 							
-								
+						double tarifMaison= CalculTarif.tarifsMaison(contratMaison.baseMaison, contratMaison.getMajSurfaceTab(), contratMaison.getMajGarageTab() , contratMaison.getMajNbPersooneSurface());
+						
+				
 							 
 
 								
