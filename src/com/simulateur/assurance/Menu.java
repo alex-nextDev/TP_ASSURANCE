@@ -389,7 +389,7 @@ public static void saisirInfos() throws InputMismatchException
 						double tarifMaison= CalculTarif.tarifsMaison(contratMaison.baseMaison, contratMaison.getMajSurfaceTab(), contratMaison.getMajGarageTab() , contratMaison.getMajNbPersooneSurface());
 						
 				   		NumberFormat numformatMaison = new DecimalFormat("#.00");
-						System.out.println();
+						System.out.println("Le tarif est de : " + numformatMaison.format(tarifMaison)+ "€");
 						
 							 
 
