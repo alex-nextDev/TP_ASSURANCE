@@ -388,7 +388,7 @@ public static void saisirInfos() throws InputMismatchException
 							
 						double tarifMaison= CalculTarif.tarifsMaison(contratMaison.baseMaison, contratMaison.getMajSurfaceTab(), contratMaison.getMajGarageTab() , contratMaison.getMajNbPersooneSurface());
 						
-				   		NumberFormat numformatMaison = new DecimalFormat();
+				   		NumberFormat numformatMaison = new DecimalFormat("#.00");
 							 
 
 								
