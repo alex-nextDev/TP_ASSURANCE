@@ -310,6 +310,8 @@ public static void saisirInfos() throws InputMismatchException
 						
 						//ContratAuto auto = new ContratAuto();
 						
+						break;
+						
 						case 3 : 
 						
 						System.out.println("CONTRAT HABITATION");
