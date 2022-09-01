@@ -391,6 +391,9 @@ public static void saisirInfos() throws InputMismatchException
 				   		NumberFormat numformatMaison = new DecimalFormat("#.00");
 						System.out.println("Le tarif est de : " + numformatMaison.format(tarifMaison)+ "€");
 						
+						Imprimer.imprimerMaison(getNom(),  getPrenom(), tarifMaison );
+						
+						
 							 
 
 								
