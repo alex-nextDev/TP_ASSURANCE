@@ -395,6 +395,8 @@ public static void saisirInfos() throws InputMismatchException
 						
 						Imprimer.imprimerMaison(getNom(),  getPrenom(), tarifMaison );
 						
+						case 3 : 
+						
 						
 						
 						break;
