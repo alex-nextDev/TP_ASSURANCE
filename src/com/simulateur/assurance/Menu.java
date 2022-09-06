@@ -397,7 +397,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						case 3 : 
 						
-						System.out.println("ONTRAT HABITATION");	
+						System.out.println("CONTRAT HABITATION");	
 				
 						
 						break;
