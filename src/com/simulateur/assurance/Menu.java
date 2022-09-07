@@ -399,7 +399,6 @@ public static void saisirInfos() throws InputMismatchException
 						
 						System.out.println("CONTRAT HABITATION");	
 				
-						
 						break;
 						
 					        default :
