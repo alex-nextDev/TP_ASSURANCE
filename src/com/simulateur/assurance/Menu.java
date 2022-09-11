@@ -404,7 +404,7 @@ public static void saisirInfos() throws InputMismatchException
 							Scanner choixSurface = new Scanner(System.in);
 							try 
 							{	
-							System.out.print();
+							System.out.print("Quelle est la surface ? ");
 				
 						break;
 						
