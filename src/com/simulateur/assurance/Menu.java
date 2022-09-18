@@ -408,7 +408,7 @@ public static void saisirInfos() throws InputMismatchException
 								surface = choixSurface.nextInt();
 								check = true;
 								}    
-							catch (e)
+							catch (InputMismatchException e)
 							{
 				
 						break;
