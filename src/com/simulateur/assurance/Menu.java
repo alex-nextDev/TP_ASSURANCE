@@ -401,7 +401,7 @@ public static void saisirInfos() throws InputMismatchException
 						
 						do
 						{ 
-							Scanner choixSurface = new Scanner(System.in);
+						Scanner choixSurface = new Scanner(System.in);
 							try 
 							{	
 							System.out.print("Quelle est la surface ? ");
@@ -411,8 +411,10 @@ public static void saisirInfos() throws InputMismatchException
 							catch (InputMismatchException e)
 							{
 							
-							System.out.println("Veuillez saisir un nombre supérieur ou égal à 10");
+						System.out.println("Veuillez saisir un nombre supérieur ou égal à 10");
 							check =  false;
+						}
+						
 				
 						break;
 						
