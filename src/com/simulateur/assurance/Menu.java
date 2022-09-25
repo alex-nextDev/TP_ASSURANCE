@@ -411,7 +411,7 @@ public static void saisirInfos() throws InputMismatchException
 							catch (InputMismatchException e)
 							{
 							
-							System.out.println();
+							System.out.println("Veuillez saisir un nombre supérieur ou égal à 10");
 				
 						break;
 						
