@@ -412,7 +412,7 @@ public static void saisirInfos() throws InputMismatchException
 							{
 							
 							System.out.println("Veuillez saisir un nombre supérieur ou égal à 10");
-							check =;
+							check =  false;
 				
 						break;
 						
