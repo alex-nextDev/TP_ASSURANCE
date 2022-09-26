@@ -416,7 +416,7 @@ public static void saisirInfos() throws InputMismatchException
 							check =  false;
 							}
 						}
-						while (;
+						while (check == false || );
 						
 				
 						break;
